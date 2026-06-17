@@ -29,7 +29,7 @@ The project enables document ingestion, semantic retrieval, answer generation, b
 
 ### Benchmark Results
 
-![Benchmark Results](assets/benchmark_result .png)
+![Benchmark Results](assets/Benchmar_results.png)
 
 ### Experiment History
 
