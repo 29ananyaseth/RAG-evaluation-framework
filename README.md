@@ -21,6 +21,23 @@ The project enables document ingestion, semantic retrieval, answer generation, b
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Home
+
+![Dashboard Home](assets/dashboard_home.png)
+
+### Benchmark Results
+
+![Benchmark Results](assets/benchmark_result.png)
+
+### Experiment History
+
+![Experiment History](assets/experiment_history.png)
+
+---
+
+
 ## 🏗️ Architecture
 
 ```text
@@ -165,9 +182,3 @@ streamlit run app.py
 * Multi-PDF Evaluation
 
 ---
-
-## 👩‍💻 Author
-
-**Ananya Seth**
-
-B.Tech Computer Science Engineering | AI & Data Engineering Enthusiast
