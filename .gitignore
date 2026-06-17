@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.env
+
+.venv/
+
+.vscode/
+
+chroma_db/
+
+experiments/*.json

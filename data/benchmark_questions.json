@@ -1,0 +1,25 @@
+[
+    {
+        "question": "What is RAG?",
+        "ground_truth": "A method that helps computer systems give better answers by first searching for useful information before responding. Instead of relying only on what the system already knows, RAG looks things up—kind of like checking notes before answering a question. This makes the final response more accurate, detailed, and grounded in real information."
+    },
+    {
+        "question": "Why RAG Matters in Today’s World",
+        "ground_truth": "In many areas today—like healthcare, research, customer support, or education—people often need detailed, factbased answers. These are known as knowledge-intensive tasks because they require more than just general information Retrieval-Augmented Generation (RAG) helps solve this by letting systems look up real information while forming a response"
+
+        
+    },
+    {
+        "question": "Components of RAG Architecture",
+        "ground_truth": "RAG architecture includes a Retriever,Generator and Fusion Techniques "
+    },
+    {
+        "question": "RAG Processing Lifecycle",
+        "ground_truth": "The RAG lifecycle involves Query Encoding, Relevant Document Retrieval, Document Fusion + Prompt Injection and Text Generation"
+    },
+    {
+        "question": "Benefits of RAG",
+        "ground_truth": "Retrieval-Augmented Generation (RAG) addresses these issues by combining a language model with an external retriever. This allows the system to search a large corpus of documents in real time and use that retrieved information to guide its responses. As a result, RAG systems are generally more accurate, adaptable, and explainable—since responses can be traced back to their sources."
+    }
+
+]
